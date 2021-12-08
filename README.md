@@ -1,5 +1,7 @@
 # Team Profile Generator ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
   In this assignemnt I was prompted with the task of creating a Team Profile Generator for a manager. A manager is able to run the application and generate basic info of employees onto a brand new HTML page. The console will prompt the user with questions based off of the criteria they selected ('Intern' or 'Engineer'). The user can add as many employees as they would like until they select done. On selecting done, the HTML page will be generated. The following is brief overview of how the process went.
+
+  Video: https://watch.screencastify.com/v/Oyh71R2ra1Czr7Zk3J0D
   # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
